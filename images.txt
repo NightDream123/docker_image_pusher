@@ -14,5 +14,6 @@ grafana/loki:2.8.0
 grafana/promtail:2.0.0
 grafana/grafana:10.1.5
 fluent/fluent-bit:2.1.4
+clickvisual/clickvisual:master
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
