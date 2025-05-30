@@ -10,7 +10,7 @@ nacos/nacos-server:v2.4.3
 redis:7.2.0
 docker.io/ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
-grafana/loki:2.0.0
+grafana/loki:2.9.10
 grafana/promtail:2.0.0
 grafana/grafana:10.1.5
 fluent/fluent-bit:latest
