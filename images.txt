@@ -22,4 +22,4 @@
 #nezhahq/nezha-server:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-timberio/vector:0.34.0
+timberio/vector:0.41.1‌
