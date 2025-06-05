@@ -20,6 +20,10 @@
 #docker.elastic.co/beats/filebeat:8.6.2
 #docker.io/logstash:8.6.2
 #nezhahq/nezha-server:latest
+
+
+timberio/vector:0.47.0-alpine
+prom/prometheus:latest
+prom/node-exporter:latest
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-timberio/vector:0.41.1‌
+--platform=linux/arm64 xiaoyaliu/alist‌
