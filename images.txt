@@ -25,5 +25,6 @@
 timberio/vector:0.47.0-alpine
 prom/prometheus:latest
 prom/node-exporter:latest
+ilemonrain/html5-speedtest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist‌
